@@ -1,0 +1,15 @@
+/Users/johnesrom/Documents/IQ/Mercado Eletronico/leve-me-webhook/me-integracao-webhooks/src/main/java/com/exemplo/mewebhooks/MeIntegracaoWebhooksApplication.java
+/Users/johnesrom/Documents/IQ/Mercado Eletronico/leve-me-webhook/me-integracao-webhooks/src/main/java/com/exemplo/mewebhooks/exception/ApiExceptionHandler.java
+/Users/johnesrom/Documents/IQ/Mercado Eletronico/leve-me-webhook/me-integracao-webhooks/src/main/java/com/exemplo/mewebhooks/exception/InvalidWebhookPayloadException.java
+/Users/johnesrom/Documents/IQ/Mercado Eletronico/leve-me-webhook/me-integracao-webhooks/src/main/java/com/exemplo/mewebhooks/features/integrationresult/controller/IntegrationResultController.java
+/Users/johnesrom/Documents/IQ/Mercado Eletronico/leve-me-webhook/me-integracao-webhooks/src/main/java/com/exemplo/mewebhooks/features/integrationresult/dto/IntegrationResultWebhookDto.java
+/Users/johnesrom/Documents/IQ/Mercado Eletronico/leve-me-webhook/me-integracao-webhooks/src/main/java/com/exemplo/mewebhooks/features/integrationresult/model/IntegrationResultRecord.java
+/Users/johnesrom/Documents/IQ/Mercado Eletronico/leve-me-webhook/me-integracao-webhooks/src/main/java/com/exemplo/mewebhooks/features/integrationresult/service/IntegrationResultPersistenceService.java
+/Users/johnesrom/Documents/IQ/Mercado Eletronico/leve-me-webhook/me-integracao-webhooks/src/main/java/com/exemplo/mewebhooks/features/integrationresult/service/IntegrationResultPersistenceServiceImpl.java
+/Users/johnesrom/Documents/IQ/Mercado Eletronico/leve-me-webhook/me-integracao-webhooks/src/main/java/com/exemplo/mewebhooks/features/integrationresult/service/IntegrationResultService.java
+/Users/johnesrom/Documents/IQ/Mercado Eletronico/leve-me-webhook/me-integracao-webhooks/src/main/java/com/exemplo/mewebhooks/features/integrationresult/service/IntegrationResultServiceImpl.java
+/Users/johnesrom/Documents/IQ/Mercado Eletronico/leve-me-webhook/me-integracao-webhooks/src/main/java/com/exemplo/mewebhooks/features/integrationresult/strategy/AbstractJdbcIntegrationResultStrategy.java
+/Users/johnesrom/Documents/IQ/Mercado Eletronico/leve-me-webhook/me-integracao-webhooks/src/main/java/com/exemplo/mewebhooks/features/integrationresult/strategy/CostCenterIntegrationResultStrategy.java
+/Users/johnesrom/Documents/IQ/Mercado Eletronico/leve-me-webhook/me-integracao-webhooks/src/main/java/com/exemplo/mewebhooks/features/integrationresult/strategy/IntegrationResultStrategy.java
+/Users/johnesrom/Documents/IQ/Mercado Eletronico/leve-me-webhook/me-integracao-webhooks/src/main/java/com/exemplo/mewebhooks/features/integrationresult/strategy/ProductIntegrationResultStrategy.java
+/Users/johnesrom/Documents/IQ/Mercado Eletronico/leve-me-webhook/me-integracao-webhooks/src/main/java/com/exemplo/mewebhooks/features/integrationresult/strategy/SupplierIntegrationResultStrategy.java

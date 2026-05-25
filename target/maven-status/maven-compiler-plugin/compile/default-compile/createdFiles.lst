@@ -1,0 +1,16 @@
+com/exemplo/mewebhooks/features/integrationresult/service/IntegrationResultPersistenceServiceImpl.class
+com/exemplo/mewebhooks/features/integrationresult/strategy/ProductIntegrationResultStrategy.class
+com/exemplo/mewebhooks/features/integrationresult/model/IntegrationResultRecord.class
+com/exemplo/mewebhooks/features/integrationresult/strategy/IntegrationResultStrategy.class
+com/exemplo/mewebhooks/features/integrationresult/service/IntegrationResultServiceImpl.class
+com/exemplo/mewebhooks/features/integrationresult/dto/IntegrationResultWebhookDto.class
+com/exemplo/mewebhooks/features/integrationresult/controller/IntegrationResultController.class
+com/exemplo/mewebhooks/exception/ApiExceptionHandler.class
+com/exemplo/mewebhooks/features/integrationresult/strategy/SupplierIntegrationResultStrategy.class
+com/exemplo/mewebhooks/features/integrationresult/service/IntegrationResultPersistenceService.class
+com/exemplo/mewebhooks/features/integrationresult/dto/IntegrationResultWebhookDto$DataPayload.class
+com/exemplo/mewebhooks/features/integrationresult/service/IntegrationResultService.class
+com/exemplo/mewebhooks/features/integrationresult/strategy/CostCenterIntegrationResultStrategy.class
+com/exemplo/mewebhooks/features/integrationresult/strategy/AbstractJdbcIntegrationResultStrategy.class
+com/exemplo/mewebhooks/exception/InvalidWebhookPayloadException.class
+com/exemplo/mewebhooks/MeIntegracaoWebhooksApplication.class
