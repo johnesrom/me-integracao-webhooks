@@ -99,6 +99,7 @@ public class IntegrationResultServiceImpl implements IntegrationResultService {
         return switch (normalized) {
             case "request", "requests" -> "request";
             case "order", "orders" -> "order";
+            case "pre-order", "pre-orders", "preorder", "preorders" -> "pre-order";
             default -> normalized;
         };
     }

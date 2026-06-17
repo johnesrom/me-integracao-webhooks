@@ -51,6 +51,7 @@ public class IntegrationResultPersistenceServiceImpl implements IntegrationResul
             case "suppliers", "supplier" -> "supplier";
             case "request", "requests" -> "request";
             case "order", "orders" -> "order";
+            case "pre-order", "pre-orders", "preorder", "preorders" -> "pre-order";
             default -> n;
         };
     }
