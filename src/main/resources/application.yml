@@ -4,11 +4,14 @@ spring:
   datasource:
     url: ${DB_URL:jdbc:oracle:thin:@//homol-db.solus.levesaude.com.br:1521/ORCL}
     driver-class-name: oracle.jdbc.OracleDriver
-    username: ${DB_USERNAME:solus}
-    password: ${DB_PASSWORD:Sol#2024}
-  sql:
-    init:
-      mode: never
+    username: ${DB_USERNAME:IQ_SERVICE}
+    password: ${DB_PASSWORD:i026q0820cevirse}
+    hikari:
+      connection-init-sql: ALTER SESSION SET CURRENT_SCHEMA=SOLUS
+  jpa:
+    properties:
+      hibernate:
+        default_schema: SOLUS
 
 logging:
   level:
