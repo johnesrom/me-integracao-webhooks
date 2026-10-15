@@ -19,3 +19,13 @@ logging:
 
 server:
   port: ${SERVER_PORT:8080}
+
+me:
+  api:
+    environment: ${ME_API_ENVIRONMENT:STG}
+    stg-url: ${ME_API_STG_URL:https://stg.api.mercadoe.com}
+    prod-url: ${ME_API_PROD_URL:https://api.mercadoe.com}
+    client-id: ${ME_CLIENT_ID:8NSGDHK4FEY1KZNB}
+    client-secret: ${ME_CLIENT_SECRET:b10b902b-54cb-41e2-bd17-1088acefb9da}
+    token-skew-seconds: ${ME_API_TOKEN_SKEW_SECONDS:30}
+    oauth-path: ${ME_API_OAUTH_PATH:/v1/auth/tokens}
